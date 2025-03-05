@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 A Computer Science and Engineering Student .<br><br>👯 I’m looking forward to collaborate and learn more.<br><br>🤝 I’m actively learning and seeking expertise in various fields.<br><br>🌱 I’m currently developing my portfolio to showcase my journey.<br><br>💬 Ask me ....<br><br>⚡ Fun fact:  😁
+🔭 A Computer Science and Engineering Student .<br><br>👯 I’m looking forward to collaborate and learn more.<br><br>🤝 I’m actively learning and seeking expertise in ML/AI.<br><br>🌱 I’m currently developing my portfolio to showcase my journey.<br><br>💬 Ask me ....<br><br>⚡ Fun fact:  😁
 
 
 ## 🌐 Socials:
